@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = %q{Generic Amazon Product Advertising Ruby API}
   s.email = %q{herryanto@gmail.com}
   s.extra_rdoc_files = ["README"]
-  s.files = [ "lib/amazon", "lib/amazon/ecs.rb", "test/amazon", "test/amazon/ecs_test.rb", "test/amazon/ecs_signature_test.rb", "test/test_helper.rb", "README"]
+  s.files = [ "lib/amazon", "lib/amazon/ecs.rb", "test/amazon", "test/amazon/ecs_test.rb", "test/test_helper.rb", "README"]
   s.has_rdoc = true
   s.homepage = %q{https://github.com/jugend/amazon-ecs}
   s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
